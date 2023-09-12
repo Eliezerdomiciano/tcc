@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: estoque
+Version: 0.1.0
+Summary: Aplicativo de estoque online
+Provides-Extra: dev
+License-File: LICENSE
